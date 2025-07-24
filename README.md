@@ -24,21 +24,24 @@ This project is a full-stack web app that uses Google Gemini AI to generate comp
 | Database   | **MongoDB**    |
 ---
 ##  Project Setup Guide
-###  Firstly, replace all `process.env` with actual values.
-### Secondly
-#### frontend 
+### Step 1: Replace all `process.env` references with actual values or define them in `.env` files.
+
+###  Step 2: Frontend Setup
 ```bash
 cd frontend
 npm install
 npm run dev
 ```
+###  Step 3: backend Setup
+
 #### backend
 ```bash
 cd backend
 npm install
 npm run start:dev
 ```
-####  Make sure MongoDB is **running locally** (default port: `27017`), or change the URI if using a cloud MongoDB.
+---
+#### ⚠️⚠️ Make sure MongoDB is **running locally** (default port: `27017`), or change the URI if using a cloud MongoDB.
 
 ## 🎉 Enjoy !
 
