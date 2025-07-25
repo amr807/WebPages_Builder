@@ -23,6 +23,15 @@ This project is a full-stack web app that uses Google Gemini AI to generate comp
 |  AI Engine  | **Google Gemini API**    |
 | Database   | **MongoDB**    |
 ---
+## Demo
+
+
+
+https://github.com/user-attachments/assets/b501d0b4-a12e-4bc2-a5c4-c905611a84ee
+
+
+
+---
 ##  Project Setup Guide
 ### Step 1: Replace all `process.env` references with actual values or define them in `.env` files.
 
